@@ -10,10 +10,8 @@ class IO {
         IO(const std::string &file_path);
         ~IO();
         std::fstream getFileStream();
-    
     private:
         std::fstream file_stream;
-
 };
 
 #endif

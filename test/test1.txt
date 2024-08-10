@@ -1,0 +1,2 @@
+CXX = g++:
+We are specifying that g++ (the GNU C++ compiler) will be used to compile the C++ files.
